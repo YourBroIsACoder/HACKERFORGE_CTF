@@ -10,7 +10,7 @@ for (int i = 0; i < strlen(password); i++)
 } 
 if (strcmp(input, password) == 0) 
 { 
-    printf("Well done... You escaped my first trap!!!\n"); 
+    printf("Well done... You escaped my second trap!!!\n"); 
 } 
 else 
 { printf("Wrong! zer0 laughs at your failure.\n"); 
